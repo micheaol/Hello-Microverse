@@ -1,13 +1,15 @@
-Hello Microverse
-This is the project to check the understanding of what I have learned about git and github.
+Hello Microverse Project.
+For this repository, I've created this project to practice what I have learned:
+1. like github workflow
+2. How to create github branches
+3. How to commit repositories
+4. How send pull request
+5. And final how to request for code review.
 
-screenshot
-C:\Users\user\Desktop\Projects\Hello-Microverse\images\project-img.PNG
+I used ESlint to manage the files for the front-end, using loaders for HTML, CSS, and JavaScript files, in order to fix some special thing at the moment to use the front-end in a server. Feel free to suggest more additional features for this repository, or if you want to use it, feel free to do that as well.
 
 
-Additional description about the project and its features.
-
-Built With: HTML and CSS
+Built With
 Major languages
 Frameworks
 Technologies used
@@ -26,16 +28,13 @@ Usage
 Run tests
 Deployment
 Authors
-👤 Author1
+👤 @micheaol
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
+GitHub: @micheaol
+Twitter: @micheaol
 LinkedIn: LinkedIn
-👤 Author2
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
+
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
@@ -50,3 +49,5 @@ Inspiration
 etc
 📝 License
 This project is MIT licensed.
+
+
