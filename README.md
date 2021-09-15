@@ -1,4 +1,5 @@
 Hello Microverse Project.
+
 For this repository, I've created this project to practice what I have learned:
 1. like github workflow
 2. How to create github branches
@@ -8,6 +9,7 @@ For this repository, I've created this project to practice what I have learned:
 
 I used ESlint to manage the files for the front-end, using loaders for HTML, CSS, and JavaScript files, in order to fix some special thing at the moment to use the front-end in a server. Feel free to suggest more additional features for this repository, or if you want to use it, feel free to do that as well.
 
+![alt text](https://github.com/micheaol/Hello-Microverse/blob/main/images/project-img.PNG)
 
 Built With
 Major languages
@@ -17,7 +19,6 @@ Live Demo
 Live Demo Link
 
 Getting Started
-This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
 
 To get a local copy up and running follow these simple example steps.
 
